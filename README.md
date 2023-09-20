@@ -29,8 +29,8 @@ Shows how to use AWS with Terraform to accomplish the following tasks:
 * You must deploy account A configuration from this repo: 
     - https://github.com/ValAug/secure-s3-deployment.git
     
-* Once is completed you must copy the output of the __Execution Lambda Role ARN__:
-    - arn:aws:iam::12345678:role/lambda_execution_role  - COPY THIS ARN and Paste it in the bucket policy
+* Once is completed you must copy the output of the __bucket ARN__:
+    - __arn:aws:s3:::destination-bucket-name-account-b/*__  - COPY THIS ARN and Paste it in the __lambda_execution_role policy__
 
 * You must have Terraform installed [How to install terraform guide](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
