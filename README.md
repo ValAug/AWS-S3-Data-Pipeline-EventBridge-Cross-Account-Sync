@@ -15,7 +15,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # AWS S3 cross-account data sync diagram 
-![Diagram]()
+![Diagram](https://github.com/ValAug/AWS-S3-Data-Pipeline-EventBridge-Cross-Account-Sync/blob/main/Data-Sync.png)
 
 # Purpose
 
