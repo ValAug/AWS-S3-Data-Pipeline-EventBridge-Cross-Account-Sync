@@ -26,7 +26,7 @@ Shows how to use AWS with Terraform to accomplish the following tasks:
 
 
 # Prerequisites
-* You must deploy account A configuration from this repo: 
+* You must deploy account B configuration from this repo: 
     - https://github.com/ValAug/secure-s3-deployment.git
     
 * Once is completed you must copy the output of the __bucket ARN__:
