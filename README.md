@@ -34,11 +34,6 @@ Shows how to use AWS with Terraform to accomplish the following tasks:
 
 * You must have Terraform installed [How to install terraform guide](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
-# Providers version
-```
-Terraform v1.0.1
-
-```
 # Cautions
 
 * As an AWS best practice, grant this code least privilege, or only the 
