@@ -17,6 +17,10 @@
 # AWS S3 cross-account data sync diagram 
 ![Diagram](https://github.com/ValAug/AWS-S3-Data-Pipeline-EventBridge-Cross-Account-Sync/blob/main/Data-Sync.png)
 
+
+https://github.com/ValAug/AWS-S3-Data-Pipeline-EventBridge-Cross-Account-Sync/assets/62879080/49bdb5af-a8e3-40b5-9683-901c963be722
+
+
 # Purpose
 
 Shows how to use AWS with Terraform to accomplish the following tasks:
